@@ -1,0 +1,4 @@
+com\example\graphQL\model\Book.class
+com\example\graphQL\service\Query.class
+com\example\graphQL\repository\BookRepository.class
+com\example\graphQL\GraphQlApplication.class
